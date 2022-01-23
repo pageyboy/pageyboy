@@ -4,6 +4,8 @@
 
 ### You can reach me at my [personal website](https://pageyboy.github.io/). 
 
+### My personal github stats below. Templated from [this excellent project](https://github.com/jstrieb/github-stats).
+
 ![](https://github.com/pageyboy/github-stats/blob/master/generated/overview.svg) ![](https://github.com/pageyboy/github-stats/blob/master/generated/languages.svg)
 
 <!--
