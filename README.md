@@ -4,6 +4,8 @@
 
 ### You can reach me at my [personal website](https://pageyboy.github.io/). 
 
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg) ![](https://github.com/username/github-stats/blob/master/generated/languafes.svg)
+
 <!--
 **pageyboy/pageyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
